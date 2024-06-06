@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Adones's GitHub stats](https://github-readme-stats.vercel.app/api?username=adonesguerreiro)](https://github.com/adonesguerreiro/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonesguerreiro&hide_progress=true)
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adonesguerreiro)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adonesguerreiro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main Skills
 
